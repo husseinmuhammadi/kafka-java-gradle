@@ -1,3 +1,5 @@
 rootProject.name = 'kafka-basics'
-include 'app'
+include 'producer'
 include 'lib'
+include 'app1'
+
